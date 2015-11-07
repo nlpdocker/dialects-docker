@@ -19,7 +19,7 @@ Unfortunately, this doesn't work yet. See [this Github issue](https://github.com
 # start the container
 docker run -ti dialects
 
-arne@tinybrick ~/repos/nlpdocker/dialects-docker $ docker run -ti dialects
+$ ~/repos/nlpdocker/dialects-docker $ docker run -ti dialects
  * Starting PostgreSQL 9.3 database server                                                                                                                       [ OK ] 
 
 [...]
