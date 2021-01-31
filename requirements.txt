@@ -4,7 +4,7 @@ django-geojson==2.6.0
 bibtexparser==0.6.0
 colorama==0.3.3
 colour==0.1.1
-Django==1.8.2
+Django==1.11.29
 django-appconf==0.6
 django-autocomplete-light==2.0.9
 django-classy-tags==0.6.1
