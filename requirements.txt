@@ -19,7 +19,7 @@ geojson==1.0.9
 geopy==1.8.1
 graphviz==0.4.4
 htmlmin==0.1.6
-Jinja2==2.7.3
+Jinja2==2.10.1
 #lribeiro.django.primeui==0.1
 MarkupSafe==0.23
 modernize==0.4
